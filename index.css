@@ -1,0 +1,101 @@
+body {
+    position: sticky;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Helvetica;
+    color: khaki;
+    text-align: center;
+    background-image: url(/resources/images/pattern.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.brushes {
+    line-height: 8;
+    color:rgb(255, 254, 254);
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Helvetica;
+    float: left;
+    background-image: url(/resources/images/hacksaw.webp);
+    height: 200px;
+    width: 200px;
+    margin-bottom: 50px;
+    padding: 25px;
+    border-radius: 20%;
+    background-color: black;
+ 
+}
+
+.hack {
+    border: 20px solid black;
+    float: left;
+    margin-right: 200px;
+    margin-top: -40px;
+    margin-bottom: 10px;
+    background-color: brown;
+    font-size: 24px;
+    color: black;
+    
+}
+
+p {
+    font-size: 16px;
+}
+
+.frames {
+    line-height: 0;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Helvetica;
+    float: left;
+    background-image: url(/resources/images/frames.webp);
+    height: 200px;
+    width: 200px;
+    margin-bottom: 50px;
+    padding: 25px;
+    border-radius: 20%;
+    background-color: black; }
+
+    .frames1 {
+        border: 20px solid black;
+        float: left;
+        margin-right: 200px;
+        margin-top: -40px;
+        margin-bottom: 10px;
+        background-color: brown;
+        font-size: 24px;
+        color: black;
+        
+    }
+
+    .paint {
+        line-height: 8;
+        color:rgb(255, 255, 255);
+        font-weight: bold;
+        font-size: 24px;
+        font-family: Helvetica;
+        float: left;
+        background-image: url(/resources/images/finnish.jpeg);
+        height: 200px;
+        width: 200px;
+        margin-bottom: 50px;
+        padding: 25px;
+        border-radius: 20%;
+        background-color: black; }
+    
+        .paint1 {
+            border: 20px solid black;
+            float: left;
+            margin-right: 200px;
+            margin-top: -40px;
+            margin-bottom: 10px;
+            background-color: brown;
+            font-size: 24px;
+            color: black;
+            
+        }
